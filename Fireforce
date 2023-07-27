@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FIREFORCE</title>
+    <meta charset="utf-8">
+    <meta >
+    <link rel="stylesheet" href="fireforce.css">
+    <script src="fireforce.js" type="text/javascript"></script>
+</head>
+<body>
+    <header>
+        <div class="nav">
+                <div class="fire">
+                    <label for="fireforce"><a href="">Fireforce</a></label>
+                </div>   
+                <input type="text" id="search" name="search" placeholder="Search" />    
+                <label for="community"><a href="">Community</a></label> 
+                <label for="marketplace"><a href="">Marketplace</a></label> 
+                <label for="roadmap"><a href="">Roadmap</a></label> 
+                <label for="faq"><a href="">FAQ</a></label> 
+                <input type="button" class="button1" name="connect" value="Connect">
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <section>
+                <div class="description">
+                    <div class="nfts">
+                        <h1><span>Create</span>, Collect, and <span>Showcase</span> amazing <span>NFTs</span></h1></div>
+                        <div class="img">
+                        <img src="FIREFORCE NFT1.png"></div>
+                        <div class="h2">
+                        <h2>Digital marketplace for Crypto collections and Non-fungible tokens(NFTs). Discover rare digital art</h2></div></div>
+                        <div class="button">
+                        <button name="explore" class="button1">Explore</button>
+                        <button name="create-design" class="button2">Create Design</button></div>
+                </div>
+            </section>
+            <section>
+                <div class="market">
+                    <h3>Trending now <a href="#">See all</a></h3>
+                    <div class="Nfts">
+                        <div class="innerImg"><img src="alien.png"></div>
+                        <div class="bid">
+                            <p class="mint">12 eidition minted</p><p class="sale">5 for sale</p>
+                            <p>Cyber punk</p><p class="end">Auction  ends in <br /> 10    30    15 <br /> Hours  Mins  Secs </p>
+                            <p class="by">By Zuri</p><br/>
+                            <p class="current">Current Bid: 2.0ETH</p><br />
+                            <div class="button">
+                                <button name="placebid" class="button1">Place Bid</button>
+                                <button name="view" class="button2">View</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Nfts">
+                        <div class="innerImg"><img src="anime.png"></div>
+                        <div class="bid">
+                            <p class="mint">12 eidition minted</p><p class="sale">5 for sale</p>
+                            <p>Cyber punk</p><p class="end">Auction  ends in <br /> 10    30    15 <br /> Hours  Mins  Secs </p>
+                            <p class="by">By Zuri</p><br/>
+                            <p class="current">Current Bid: 2.0ETH</p><br />
+                            <div class="button">
+                                <button name="placebid" class="button1">Place Bid</button>
+                                <button name="view" class="button2">View</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Nfts">
+                        <div class="innerImg"><img src="bot.png"></div>
+                        <div class="bid">
+                            <p class="mint">12 eidition minted</p><p class="sale">5 for sale</p>
+                            <p>Cyber punk</p><p class="end">Auction  ends in <br /> 10    30    15 <br /> Hours  Mins  Secs </p>
+                            <p class="by">By Zuri</p><br/>
+                            <p class="current">Current Bid: 2.0ETH</p><br />
+                            <div class="button">
+                                <button name="placebid" class="button1">Place Bid</button>
+                                <button name="view" class="button2">View</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+
+        </div>
+    </main>
+
+</body>
+
+
+</html>
